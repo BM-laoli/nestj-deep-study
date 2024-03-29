@@ -1,0 +1,13 @@
+{
+  "name": "faye-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "faye": "^1.4.0",
+    "http": "^0.0.1-security"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
